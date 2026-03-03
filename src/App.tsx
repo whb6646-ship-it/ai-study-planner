@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import Layout from './Layout';
-import Dashboard from './Dashboard';
-import StudyPlanner from './StudyPlanner';
-import StudyMode from './StudyMode';
-import Settings from './Settings';
+import Layout from './components/Layout';
+import Dashboard from './components/Dashboard';
+import StudyPlanner from './components/StudyPlanner';
+import StudyMode from './components/StudyMode';
+import Settings from './components/Settings';
 import { ProgressProvider } from './context/ProgressContext';
 import { ThemeProvider } from './context/ThemeContext';
 import { SettingsProvider } from './context/SettingsContext';
