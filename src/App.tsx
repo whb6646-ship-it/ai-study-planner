@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Layout from './components/Layout';
+import Layout from './Layout';
 import Dashboard from './components/Dashboard';
 import StudyPlanner from './components/StudyPlanner';
 import StudyMode from './components/StudyMode';
